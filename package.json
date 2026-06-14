@@ -1,1 +1,11 @@
-
+{
+  "name": "binary-signal-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
